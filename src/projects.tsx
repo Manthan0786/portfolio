@@ -1,7 +1,7 @@
 import Image from "next/image";
-import nearbuy from "../public/project images/nearbuy.png";
+import nearbuy from "../public/project images/nearbuy.webp";
 import wordle from "../public/project images/wordle.png";
-import zazra from "../public/project images/zazra.png";
+import zazra from "../public/project images/zazra.webp";
 
 export default function Projects() {
   const projects = [
