@@ -9,8 +9,6 @@ import { useState, useEffect } from "react";
 
 const words = [
   "Software Developer ",
-  "MERN Stack Developer",
-  "React Developer",
 ];
 const loop = true;
 const onFinish = () => console.log("Typewriter effect finished");
